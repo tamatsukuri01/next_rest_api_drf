@@ -59,7 +59,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    'http://localhost:3000',
+    'http://localhost:3000',"https://next-m2kf5mk9r-tamatsukuri01.vercel.app"
 ]
 
 SIMPLE_JWT = {
